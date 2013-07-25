@@ -1,0 +1,21 @@
+<paquet
+	prefix="chartetypo"
+	categorie="outil"
+	version="1.0.0"
+	etat="dev"
+	compatibilite="[3.0.10;3.0.*]"
+	logo=""
+	documentation=""
+>
+	<!--
+		Paquet genere le 2013-07-25 09:45:54
+	-->
+
+	<nom>Charte Typographique</nom>
+
+	<auteur>Vertige ASBL</auteur>
+
+	<licence>GNU/GPL</licence>
+
+
+</paquet>
