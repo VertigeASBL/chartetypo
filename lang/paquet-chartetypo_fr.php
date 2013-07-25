@@ -8,7 +8,7 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 	// C
 	'chartetypo_description' => '',
 	'chartetypo_nom' => 'Charte Typographique',
-	'chartetypo_slogan' => 'Des pages pour visualiser d\'un coup les styles d\'un site Z',
+	'chartetypo_slogan' => 'Une page pour visualiser d\'un coup les styles d\'un site Z',
 );
 
 ?>
