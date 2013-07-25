@@ -17,5 +17,6 @@
 
 	<licence>GNU/GPL</licence>
 
+  <necessite nom="zcore" compatibilite="[2.2.1;[" />
 
 </paquet>
